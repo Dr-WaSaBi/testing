@@ -7,7 +7,7 @@ It can be a bit more work, but when done correctly. Can save you.
 
 ## Ideas
 ### Learning git and github
-* what are repos
+* [what are repos](./what-is-repo.md)
   * Setting up your repo
   * adding files / inital commiting
 * [branches](./branches.md)
