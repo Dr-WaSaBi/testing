@@ -8,10 +8,11 @@ It can be a bit more work, but when done correctly. Can save you.
 ## Ideas
 ### Learning git and github
 * what are repos
+  * Setting up your repo
+  * adding files / inital commiting
 * [branches](./branches.md)
 * pull requests  
 * pushing and pulling
-* commiting
 * reviews
 * workflow
   * How does code get checked into DEV
