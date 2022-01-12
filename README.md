@@ -22,8 +22,7 @@ It can be a bit more work, but when done correctly. Can save you.
 - All work is done over in dev, but after reviewed and PR'd gets pulled in to Compition
 
 ### Documentation
-If it was hard to write, it should be hard to read
-- the 70's called, they want their code back.
+"If it was hard to write, it should be hard to read", - the 70's called, they want their code back.
 - How many times has a new season started and the question was asked "What is this?" and "Why did they do it that way?". This is why we need documentation.
 - Doesn't have to be complaticated, just a folder in the repo and a bunch of markdown
 
