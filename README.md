@@ -9,9 +9,16 @@ It can be a bit more work, but when done correctly. Can save you.
 * branches
 * pushing and pulling
 * commiting
-* pull requests
+* pull requests  
 * reviews
+* workflow
+  * How does code get checked into DEV
+  * How would it go from DEV --> COMP, is there a review process?  
+
+    For merge to COMP, changes should be reviewed before the PR is merged.  Also maybe setup a task to test build the code so that does pass a build successfuly.
+
 * what am I forgetting>
+
 
 
 ### More devs
