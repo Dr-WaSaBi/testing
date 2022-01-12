@@ -16,4 +16,4 @@ At this point, you are in a empty folder/directory.  Now we want to inialize our
 
 ```git init```
 
-![Blank Repo](./img/create-blank-repo.png)
+![Blank Repo](/img/create-blank-repo.png)
