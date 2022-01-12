@@ -1,4 +1,5 @@
-# Raptor Testing Repos
+# Raptor Testing Repos 
+![git logo](./img/gitlogo.png)
 The purpose of this repo is to try to come up with a git learning template of how to best setup our 2022 code repository
 
 It can be a bit more work, but when done correctly. Can save you.
